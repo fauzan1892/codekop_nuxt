@@ -1,0 +1,29 @@
+{
+  "name": "codekop_nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.3",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.14.12",
+    "popper.js": "^1.16.1",
+    "prismjs": "^1.23.0",
+    "vue-disqus": "^4.0.1",
+    "vue-prism": "^1.0.5",
+    "vue-resource": "^1.5.1",
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint-loader": "^4.0.2"
+  }
+}
