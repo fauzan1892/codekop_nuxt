@@ -1,5 +1,5 @@
 ## codekop_nuxt
-this is codekop.com clone website with nuxtjs 
+this is codekop.com website clone with nuxtjs 
 ## Build Setup
 
 ```bash
